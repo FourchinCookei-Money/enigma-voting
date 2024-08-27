@@ -33,7 +33,7 @@
     "solium": "^1.0.4",
     "truffle": "4.1.14",
     "truffle-hdwallet-provider": "0.0.3",
-    "webpack": "3.10.0"
+    "webpack": "5.94.0"
   },
   "dependencies": {
     "@aragon/apps-shared-minime": "^1.0.0",
